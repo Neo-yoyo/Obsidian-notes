@@ -129,7 +129,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,10 +146,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7d6ae7ab62b13093",
+  "active": "73dd423b29487046",
   "lastOpenFiles": [
-    "Синхронизация GitHub и Obsidian.md",
     "Без названия",
+    "Синхронизация GitHub и Obsidian.md",
     "Без названия.md"
   ]
 }
