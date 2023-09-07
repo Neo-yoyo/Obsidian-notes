@@ -72,3 +72,6 @@
       - `Setting -> Developer setting -> Tokens (classic) -> generate new token`
 
   5. После этого ваши заметки должны синхронизироваться между компьютером и мобильным устройством при использовании Obsidian Git.
+
+iPhone 
+
