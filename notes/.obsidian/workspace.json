@@ -18,29 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d84e84578d682db1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "ab4df67e3c04b6ab",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,10 +156,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ab4df67e3c04b6ab",
+  "active": "7d6ae7ab62b13093",
   "lastOpenFiles": [
-    "Без названия",
     "Синхронизация GitHub и Obsidian.md",
+    "Без названия",
     "Без названия.md"
   ]
 }
