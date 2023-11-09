@@ -11,8 +11,12 @@
             "id": "8940b6ea4dfe868c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GitHub_Actions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GitHub_Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GitHub_Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Синхронизация GitHub и Obsidian.md"
+                "file": "GitHub_Actions.md"
               }
             }
           },
@@ -152,8 +158,9 @@
   },
   "active": "73dd423b29487046",
   "lastOpenFiles": [
-    "obsidian.md",
     "Синхронизация GitHub и Obsidian.md",
+    "GitHub_Actions.md",
+    "obsidian.md",
     "Без названия",
     "Без названия.md"
   ]
