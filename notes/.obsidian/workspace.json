@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "56fc80a1d24168d2",
+        "id": "7673e10c70960ccb",
         "type": "tabs",
         "children": [
           {
-            "id": "7d6ae7ab62b13093",
+            "id": "8940b6ea4dfe868c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Синхронизация GitHub и Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Синхронизация GitHub и Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Синхронизация GitHub и Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Синхронизация GitHub и Obsidian.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,7 +148,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7d6ae7ab62b13093",
+  "active": "73dd423b29487046",
   "lastOpenFiles": [
     "Синхронизация GitHub и Obsidian.md",
     "Без названия",
